@@ -1,7 +1,7 @@
-# Trabajo-Colavorativo-1
+# Trabajo-Colaborativo-1
 Electronica Microcontrolada
   Grupo 7
-    Esteban Montenegro
+
     Valeria Rios
     Ramiro Fabrega
     Candela Saintgirons
