@@ -1,4 +1,4 @@
-# Trabajo-Colavorativo-1
+# Trabajo-Colaborativo-1
 Electronica Microcontrolada
   Grupo 7
     Esteban Montenegro
@@ -6,6 +6,6 @@ Electronica Microcontrolada
     Ramiro Fabrega
     Candela Saintgirons
     Paulo Daniel Rios
-  profesor Cristian Gonzalo Vera
+  Profesor Cristian Gonzalo Vera
   año 2023
   
